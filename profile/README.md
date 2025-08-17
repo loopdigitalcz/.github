@@ -43,19 +43,9 @@ Máte projekt? Neváhejte nás kontaktovat:
 
 -  **E-mail:** [info@loopdigital.cz](mailto:info@loopdigital.cz) :contentReference[oaicite:14]{index=14}  
 -  **Telefon:** +420 608 503 778 :contentReference[oaicite:15]{index=15}  
--  **Adresa:** Zápy 213, 250 61 Zápy, Česká republika :contentReference[oaicite:16]{index=16}
 
 ---
 
-##  Jak přispět (pro interní repozitáře)
-
-1. Forkněte si tento repozitář.  
-2. Vytvořte nový branch: `feature/název-funkce`.  
-3. Proveďte změny a commitněte s jasným popisem.  
-4. Odešlete Pull Request.  
-5. Označte tým pro review; přezkoumáno = připraveno na merge.
-
----
 
 ##  Děkujeme
 
